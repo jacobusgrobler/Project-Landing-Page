@@ -93,14 +93,16 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width: 200px;
+    min-width: 180px;
+    min-height: 300px;
+    max-width: 300px;
     max-height: 200px;
     border-radius: 7px;
 }
 
 .container-image-text{
     margin-top: 1px;
-    margin-left: 15px;
+    margin-left: 40px;
     font-size: 13px;
     text-align: center;
     max-width: 100px;  /* you removed a display flex here*/
@@ -145,25 +147,49 @@
 } 
 
 .bottom-signup{
+    margin-top: 70px;
     background-color: #3882f6;
     display: flex;
     justify-content: space-between;
     padding-left: 75px;
     padding-right: 75px;
-    margin-left: 320px;
-    margin-right: 320px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 5px;
 }
 
-.bottom-signup-text{
-    display: flex; 
+.bottom-signup-container{
+    display: flex;
     flex-direction: column;
+    justify-content: space-around;
+}
+
+ .bottom-signup-heading{
+    color: white;
+    /* margin-top: 15px;   */
+} 
+
+.bottom-signup-text{
+    color: white;
+    /* margin-bottom: 10px;  */
+    
 }
 
 .signup-button{
+    margin-top: 33px;
     background-color: #3882f6;
+    height: 40px;
+    width: 90px;
+    border: 2px solid white;
+    border-radius: 7px;
 }
 
 .footer{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    margin-top: 70px;
+    background-color: #1f2937;
     display: flex;
     justify-content: center;
 }

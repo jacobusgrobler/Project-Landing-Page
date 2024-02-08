@@ -1,0 +1,84 @@
+*{
+    margin: 1px;
+    padding: 2px;
+}
+
+.header{
+    border: 2px solid black;
+}
+
+.logo{
+    border: 2px solid black;
+}
+
+.links{
+    border: 2px solid black;
+}
+
+.header-list{
+    border: 2px solid black;
+}
+
+.link{
+    border: 2px solid black;
+}
+
+.body{
+    border: 2px solid black;
+}
+
+.top{
+    border: 2px solid black;
+}
+
+.section-left{
+    border: 2px solid black;
+}
+
+.section-right{
+    border: 2px solid black;
+}
+
+.middle{
+    border: 2px solid black;
+}
+
+.container-one{
+    border: 2px solid black;
+}
+
+.container-two{
+    border: 2px solid black;
+}
+
+.container-three{
+    border: 2px solid black;
+}
+
+.container-four{
+    border: 2px solid black;
+}
+
+.bottom-paragraph{
+    border: 2px solid black;
+}
+
+.paragraph{
+    border: 2px solid black;
+}
+
+.bottom-signup{
+    border: 2px solid black;
+}
+
+.signup-block{
+    border: 2px solid black;
+}
+
+.footer{
+    border: 2px solid black;
+}
+
+.foot{
+    border: 2px solid black;
+}
